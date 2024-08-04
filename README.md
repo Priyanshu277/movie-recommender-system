@@ -19,3 +19,6 @@ Input: Enter the name of a movie.
 Processing: The system extracts features from the input movie and calculates the cosine similarity between the input movie and other movies in the dataset.
 
 Output: Displays the top 5 most similar movies based on the calculated similarity scores.
+
+![Screenshot](Screenshot%20(44).png)
+
